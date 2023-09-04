@@ -1,0 +1,7 @@
+# Tools-for-Data-science-Final-Project
+
+Welcome to the Tools for Data Science Course, an immersive hands-on learning experience designed to equip you with essential skills for the world of data science. This comprehensive course covers a diverse range of topics, including Linux fundamentals, statistical analysis, data visualization, parallel computing with GPUs, big data processing with Hadoop and Spark, machine learning libraries, NoSQL databases, and cloud services.
+
+## My Experience: 
+I had the privilege of completing this course the Fall 2022 semester, and I can personally attest to its value and impact on my data science journey. Through the course, I gained proficiency in a wide array of tools and technologies that have been instrumental in my career. Since then, I've successfully applied the knowledge gained to various real-world projects, achieving remarkable results. For instance, in the Final Project, I performed data analysis and modeling using Python and R, building Support Vector Machine (SVM), Random Forest, and Logistic Regression models on datasets such as Titanic, beans, heart, and wheat. Notably, I attained accuracy scores of **78%** and **92%** on the Titanic and beans datasets respectively using Python, and **90%** and **82%** on the heart and wheat datasets respectively using R. These experiences not only enhanced my technical skills but also boosted my confidence in tackling complex data science challenges.
+
